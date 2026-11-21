@@ -1,0 +1,3 @@
+22:19:34.924 [TestNG-PoolService-1] ERROR stepDefinitions.A_ValidateSiteOpenedStep - Exception generated Cannot invoke "pageObjects.HomePage.getSportSection()" because "this.homepage" is null
+22:25:41.182 [TestNG-PoolService-1] ERROR stepDefinitions.A_ValidateSiteOpenedStep - Exception generated Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "stepDefinitions.A_ValidateSiteOpenedStep.getDriver()" is null
+22:25:41.186 [TestNG-PoolService-1] ERROR stepDefinitions.A_ValidateSiteOpenedStep - Exception generated Cannot invoke "pageObjects.HomePage.getLogo()" because "this.homepage" is null

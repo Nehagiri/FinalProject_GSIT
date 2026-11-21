@@ -1,0 +1,2 @@
+22:25:41.187 [TestNG-PoolService-1] ERROR stepDefinitions.A_ValidateSiteOpenedStep - Exception generated Cannot invoke "pageObjects.HomePage.getSportMenu()" because "this.homepage" is null
+22:25:41.191 [TestNG-PoolService-1] ERROR stepDefinitions.A_ValidateSiteOpenedStep - Exception generated Cannot invoke "pageObjects.HomePage.getSportSection()" because "this.homepage" is null
